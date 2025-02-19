@@ -1,8 +1,6 @@
 # TrueScan
 
-TrueScan is a geographical distance calculator that allows users to input two addresses and visualize the geographical distance between
-them on an interactive world map. The script uses the OpenCage API for geocoding, the Plotly API for data visualization, and the Haversine 
-formula for distance calculations.
+TrueScan is a geographical distance calculator that allows users to input two addresses and visualize the geographical distance between them on an interactive world map. The script uses the OpenCage API for geocoding, the Plotly API for data  visualization, and the Haversine formula for distance calculations.
 
 ## Prerequisites
 
